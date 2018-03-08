@@ -1,0 +1,6 @@
+framework module Pods_InstaFinal {
+  umbrella header "Pods-InstaFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
